@@ -1,2 +1,2 @@
 # UCLA_Physics
-Summary of Math and Physics courses taken in UCLA
+Materials of Math and Physics courses taken in UCLA
